@@ -19,6 +19,18 @@ ls -l
 //That script display current directory contents in a long format //
 
 Task 4: #!/bin/bash 
-ls -a
-//That script display current directory contents, including hidden files (starting with .).
+ls -la
+//That script display current directory contents, including hidden files (starting with .). //
+
+Task 5: #!/bin/bash
+ls -lan
+//That script display current directory contents, including hidden files (starting with .). with binary //
+
+Task 6 : #!/bin/bash
+mkdir /tmp/my_first_directory
+//creates a directory named my_first_directory in the /tmp/. //
+
+Task 7 : #!/bin/bash
+mv /tmp/betty /tmp/my_first_directory
+//Move the file betty from /tmp/ to /tmp/my_first_directory.//
 
